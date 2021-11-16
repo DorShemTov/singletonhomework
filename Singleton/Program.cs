@@ -10,6 +10,8 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
+            Users users = new Users();
+            Washingmachine.Instance.ChecAvailabilty();
         }
     }
 }

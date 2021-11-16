@@ -1,0 +1,7 @@
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\bin\Debug\Singleton.exe
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\bin\Debug\Singleton.pdb
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\obj\Debug\Singleton.exe
+C:\Users\dorsh\OneDrive\Documents\GitHub\singletonhomework\Singleton\obj\Debug\Singleton.pdb
